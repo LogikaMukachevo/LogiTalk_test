@@ -1,0 +1,15 @@
+p {
+    color: blue;
+}
+
+#main {
+    color: red;
+}
+
+.special {
+    color: green;
+}
+
+p.special {
+    color: orange;
+}
